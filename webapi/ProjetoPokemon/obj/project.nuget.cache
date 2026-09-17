@@ -1,0 +1,36 @@
+{
+  "version": 2,
+  "dgSpecHash": "QDh0EiYMmDs=",
+  "success": true,
+  "projectFilePath": "/home/fabricionathan/Documentos/curso-csharp/webapi/ProjetoPokemon/ProjetoPokemon.csproj",
+  "expectedPackageFiles": [
+    "/home/fabricionathan/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
+    "/home/fabricionathan/.nuget/packages/microsoft.aspnetcore.openapi/10.0.11/microsoft.aspnetcore.openapi.10.0.11.nupkg.sha512",
+    "/home/fabricionathan/.nuget/packages/microsoft.entityframeworkcore/7.0.7/microsoft.entityframeworkcore.7.0.7.nupkg.sha512",
+    "/home/fabricionathan/.nuget/packages/microsoft.entityframeworkcore.abstractions/7.0.7/microsoft.entityframeworkcore.abstractions.7.0.7.nupkg.sha512",
+    "/home/fabricionathan/.nuget/packages/microsoft.entityframeworkcore.analyzers/7.0.7/microsoft.entityframeworkcore.analyzers.7.0.7.nupkg.sha512",
+    "/home/fabricionathan/.nuget/packages/microsoft.entityframeworkcore.design/7.0.7/microsoft.entityframeworkcore.design.7.0.7.nupkg.sha512",
+    "/home/fabricionathan/.nuget/packages/microsoft.entityframeworkcore.relational/7.0.7/microsoft.entityframeworkcore.relational.7.0.7.nupkg.sha512",
+    "/home/fabricionathan/.nuget/packages/microsoft.entityframeworkcore.tools/7.0.7/microsoft.entityframeworkcore.tools.7.0.7.nupkg.sha512",
+    "/home/fabricionathan/.nuget/packages/microsoft.extensions.dependencymodel/7.0.0/microsoft.extensions.dependencymodel.7.0.0.nupkg.sha512",
+    "/home/fabricionathan/.nuget/packages/microsoft.openapi/2.7.5/microsoft.openapi.2.7.5.nupkg.sha512",
+    "/home/fabricionathan/.nuget/packages/mono.texttemplating/2.2.1/mono.texttemplating.2.2.1.nupkg.sha512",
+    "/home/fabricionathan/.nuget/packages/npgsql/7.0.4/npgsql.7.0.4.nupkg.sha512",
+    "/home/fabricionathan/.nuget/packages/npgsql.entityframeworkcore.postgresql/7.0.4/npgsql.entityframeworkcore.postgresql.7.0.4.nupkg.sha512",
+    "/home/fabricionathan/.nuget/packages/system.codedom/4.4.0/system.codedom.4.4.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "message": "Package 'Npgsql' 7.0.4 has a known high severity vulnerability, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c",
+      "projectPath": "/home/fabricionathan/Documentos/curso-csharp/webapi/ProjetoPokemon/ProjetoPokemon.csproj",
+      "warningLevel": 1,
+      "filePath": "/home/fabricionathan/Documentos/curso-csharp/webapi/ProjetoPokemon/ProjetoPokemon.csproj",
+      "libraryId": "Npgsql",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    }
+  ]
+}
