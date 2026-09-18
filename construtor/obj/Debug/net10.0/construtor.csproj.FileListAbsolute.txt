@@ -1,0 +1,15 @@
+/home/fabricionathan/Documentos/curso-csharp/construtor/bin/Debug/net10.0/construtor
+/home/fabricionathan/Documentos/curso-csharp/construtor/bin/Debug/net10.0/construtor.deps.json
+/home/fabricionathan/Documentos/curso-csharp/construtor/bin/Debug/net10.0/construtor.runtimeconfig.json
+/home/fabricionathan/Documentos/curso-csharp/construtor/bin/Debug/net10.0/construtor.dll
+/home/fabricionathan/Documentos/curso-csharp/construtor/bin/Debug/net10.0/construtor.pdb
+/home/fabricionathan/Documentos/curso-csharp/construtor/obj/Debug/net10.0/construtor.GeneratedMSBuildEditorConfig.editorconfig
+/home/fabricionathan/Documentos/curso-csharp/construtor/obj/Debug/net10.0/construtor.AssemblyInfoInputs.cache
+/home/fabricionathan/Documentos/curso-csharp/construtor/obj/Debug/net10.0/construtor.AssemblyInfo.cs
+/home/fabricionathan/Documentos/curso-csharp/construtor/obj/Debug/net10.0/construtor.csproj.CoreCompileInputs.cache
+/home/fabricionathan/Documentos/curso-csharp/construtor/obj/Debug/net10.0/construtor.sourcelink.json
+/home/fabricionathan/Documentos/curso-csharp/construtor/obj/Debug/net10.0/construtor.dll
+/home/fabricionathan/Documentos/curso-csharp/construtor/obj/Debug/net10.0/refint/construtor.dll
+/home/fabricionathan/Documentos/curso-csharp/construtor/obj/Debug/net10.0/construtor.pdb
+/home/fabricionathan/Documentos/curso-csharp/construtor/obj/Debug/net10.0/construtor.genruntimeconfig.cache
+/home/fabricionathan/Documentos/curso-csharp/construtor/obj/Debug/net10.0/ref/construtor.dll

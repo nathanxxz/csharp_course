@@ -1,0 +1,15 @@
+/home/fabricionathan/Documentos/curso-csharp/exercicios/poo/obj/Debug/net10.0/poo.GeneratedMSBuildEditorConfig.editorconfig
+/home/fabricionathan/Documentos/curso-csharp/exercicios/poo/obj/Debug/net10.0/poo.AssemblyInfoInputs.cache
+/home/fabricionathan/Documentos/curso-csharp/exercicios/poo/obj/Debug/net10.0/poo.AssemblyInfo.cs
+/home/fabricionathan/Documentos/curso-csharp/exercicios/poo/obj/Debug/net10.0/poo.csproj.CoreCompileInputs.cache
+/home/fabricionathan/Documentos/curso-csharp/exercicios/poo/obj/Debug/net10.0/poo.sourcelink.json
+/home/fabricionathan/Documentos/curso-csharp/exercicios/poo/bin/Debug/net10.0/poo
+/home/fabricionathan/Documentos/curso-csharp/exercicios/poo/bin/Debug/net10.0/poo.deps.json
+/home/fabricionathan/Documentos/curso-csharp/exercicios/poo/bin/Debug/net10.0/poo.runtimeconfig.json
+/home/fabricionathan/Documentos/curso-csharp/exercicios/poo/bin/Debug/net10.0/poo.dll
+/home/fabricionathan/Documentos/curso-csharp/exercicios/poo/bin/Debug/net10.0/poo.pdb
+/home/fabricionathan/Documentos/curso-csharp/exercicios/poo/obj/Debug/net10.0/poo.dll
+/home/fabricionathan/Documentos/curso-csharp/exercicios/poo/obj/Debug/net10.0/refint/poo.dll
+/home/fabricionathan/Documentos/curso-csharp/exercicios/poo/obj/Debug/net10.0/poo.pdb
+/home/fabricionathan/Documentos/curso-csharp/exercicios/poo/obj/Debug/net10.0/poo.genruntimeconfig.cache
+/home/fabricionathan/Documentos/curso-csharp/exercicios/poo/obj/Debug/net10.0/ref/poo.dll
